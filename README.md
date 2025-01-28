@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 💬 Ask me about anything tech-related, and I'll be happy to help!
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [https://discord.gg/qHSgRz2sjq]
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to reach out to me via [Your Email] or connect with me on [Discord](https://discord.gg/qHSgRz2sjq).
+
+
 
 ---
 
