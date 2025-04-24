@@ -1,16 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Creator1116 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or fields of expertise]. Here's a little about me and some cool stats from my GitHub activity.
+Welcome to my GitHub profile! I'm passionate about coding and technology. Here's a little about me and some cool stats from my GitHub activity.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project/Focus]**
-- 🌱 I’m learning **[What You're Currently Learning]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 💬 Ask me about **[Topics You'd Like to Share Expertise On]**
-- 📫 How to reach me: **[Your Email/Professional Contact Info]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔭 I’m currently working on **Libra, a fully decentralized socials app**
+- 🌱 I’m learning **react (send help)**
+- 👯 I’m looking to collaborate on **anything, make sure to reach out!**
+- 💬 Ask me about **anything!**
+- 📫 How to reach me: **maiguin@proton.me**
 
 ---
 
@@ -62,9 +61,9 @@ Welcome to my GitHub profile! I'm passionate about [your interests or fields of 
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/mai-wang-418453362/))
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-profile](https://x.com/_redacted01))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://github.com/creator1116)
 
 ---
 
