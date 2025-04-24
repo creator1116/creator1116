@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm passionate about [your interests or fields of 
 
 ## 🗂️ Highlighted Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=your-repo-name&theme=radical)](https://github.com/creator1116/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=your-repo-name&theme=radical)](https://github.com/creator1116/libra)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=another-repo-name&theme=radical)](https://github.com/creator1116/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=another-repo-name&theme=radical)](https://github.com/creator1116/real-blog)
 
 ---
 
