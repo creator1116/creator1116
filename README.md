@@ -5,11 +5,9 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Libra, a fully decentralized socials app**
-- 🌱 I’m learning **react (send help)**
-- 👯 I’m looking to collaborate on **anything, make sure to reach out!**
-- 💬 Ask me about **anything!**
-- 📫 How to reach me: **maiguin@proton.me**
+- I am currently working on rapidbot the most optimized and advanced minecraft headless botting framework
+- You can also see my work on github @ partialdifferentialequation (currently banned for some reason) and veryfunnythingy1
+- you can reach me @ ace.nether.bio and also veryfunnythingy1@proton.me
 
 ---
 
@@ -30,14 +28,6 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 ## 🌟 Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=creator1116&theme=radical&column=7)
-
----
-
-## 🗂️ Highlighted Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=your-repo-name&theme=radical)](https://github.com/creator1116/libra)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=creator1116&repo=another-repo-name&theme=radical)](https://github.com/creator1116/real-blog)
 
 ---
 
@@ -67,4 +57,3 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 ---
 
-✨ **Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.**
